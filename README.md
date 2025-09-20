@@ -105,7 +105,3 @@ Rajesh Sandaka
 
 
 ---
-
-This version keeps all headings (`#`, `##`, `###`) and formatting intact, **ready to paste** into GitHub as `README.md`.  
-
-If you want, I can also make a **super compact 1-page version** with just instructions + input/output so
